@@ -1,0 +1,6 @@
+@InfinityMarket_HostAddress = http://localhost:5032
+
+GET {{InfinityMarket_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
